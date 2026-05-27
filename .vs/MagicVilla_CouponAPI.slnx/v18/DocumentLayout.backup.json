@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\.Net_Core\\MagicVilla_CouponAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F49200F-4AB5-4A2A-A00A-108A40A1A72E}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|i:\\.net_core\\magicvilla_couponapi\\magicvilla_couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F49200F-4AB5-4A2A-A00A-108A40A1A72E}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F49200F-4AB5-4A2A-A00A-108A40A1A72E}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|i:\\.net_core\\magicvilla_couponapi\\magicvilla_couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F49200F-4AB5-4A2A-A00A-108A40A1A72E}|MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj|solutionrelative:magicvilla_couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 164,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "I:\\.Net_Core\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\appsettings.json",
+              "ToolTip": "I:\\.Net_Core\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI\\appsettings.json",
+              "RelativeToolTip": "MagicVilla_CouponAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T17:01:04.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\.Net_Core\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MagicVilla_CouponAPI\\Program.cs",
+              "ToolTip": "I:\\.Net_Core\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI\\Program.cs",
+              "RelativeToolTip": "MagicVilla_CouponAPI\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T16:59:15.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
