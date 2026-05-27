@@ -5233,11 +5233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\.Net_Core\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj",
+      "projectUniqueName": "I:\\.Net_Core\\MagicVilla_CouponAPI_docker\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj",
       "projectName": "MagicVilla_CouponAPI",
-      "projectPath": "I:\\.Net_Core\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj",
+      "projectPath": "I:\\.Net_Core\\MagicVilla_CouponAPI_docker\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI.csproj",
       "packagesPath": "C:\\Users\\Rubenz\\.nuget\\packages\\",
-      "outputPath": "I:\\.Net_Core\\MagicVilla_CouponAPI\\MagicVilla_CouponAPI\\obj\\",
+      "outputPath": "I:\\.Net_Core\\MagicVilla_CouponAPI_docker\\MagicVilla_CouponAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

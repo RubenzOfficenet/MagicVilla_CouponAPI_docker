@@ -2,3 +2,5 @@
 docker build -t magicvilla_couponapi:v1 .
 
 docker run -p 8080:8080 -p 8085:8085 magicvilla_couponapi:v1
+
+docker-compose up -d
