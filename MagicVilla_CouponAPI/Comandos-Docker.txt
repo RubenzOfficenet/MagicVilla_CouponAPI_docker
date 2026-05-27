@@ -1,4 +1,9 @@
 ﻿
+SQL Server
+docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=@rubenz123" -p 1433:1433 --name sql2022 -d rubenzmx/rubenz_sqlserver_custom:2022
+
+
+IMAGE
 docker build -t magicvilla_couponapi:v1 .
 
 docker run -p 8080:8080 -p 8085:8085 magicvilla_couponapi:v1
